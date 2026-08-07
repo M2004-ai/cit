@@ -7,7 +7,11 @@
 
 const CIT = {
   WHATSAPP_UAE: "971565602630",
+  WHATSAPP_UAE_2: "971504084556",
   WHATSAPP_EG: "201066301038",
+  WHATSAPP_GROUP: "https://chat.whatsapp.com/F27X0nnYdzM5HH4cSkR1bi",
+  FACEBOOK_URL: "https://www.facebook.com/certifiedInternationalteam.net?locale=ar_AR",
+  INSTAGRAM_URL: "https://www.instagram.com/citinternational2023?igsh=cjhwNzh3dGcyb3Q3",
   ADMIN_PASSWORD: "CIT2026",
   STORAGE_KEY: "cit_submissions",
   ADMIN_SESSION_KEY: "cit_admin_session",
@@ -45,7 +49,7 @@ function initTheme() {
 
 /* ================= Language (ar / en) ================= */
 const TRANSLATIONS = {
-  topAddress: { ar: "الشارقة - برج سهاب الإمارات - 3704", en: "Sharjah - Sahab Tower, UAE - 3704" },
+  topAddress: { ar: "أبوظبي - شارع الكرامة", en: "Abu Dhabi - Al Karama Street" },
   navAbout: { ar: "من نحن", en: "About" },
   navCourses: { ar: "الكورسات", en: "Courses" },
   navRequirements: { ar: "شروط الالتحاق", en: "Requirements" },
