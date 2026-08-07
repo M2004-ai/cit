@@ -124,6 +124,8 @@ header.site-header{
 }
 .brand-mark{
   width:46px;height:46px;flex-shrink:0;
+  border-radius:50%;object-fit:cover;
+  border:1.5px solid #c9a35a;background:#0d0d0d;
 }
 .brand-text .en{
   font-family:'Playfair Display', serif;
@@ -419,7 +421,7 @@ footer.site-footer{
   border-bottom:1px solid var(--cit-line);
   display:flex;justify-content:space-between;align-items:center;
 }
-.form-card-head .fc-mark{width:32px;height:32px;}
+.form-card-head .fc-mark{width:32px;height:32px;border-radius:50%;object-fit:cover;border:1.5px solid #c9a35a;background:#0d0d0d;}
 .form-card-head .fc-title{font-family:'Playfair Display',serif;color:var(--cit-gold-light);font-size:15px;letter-spacing:.05em;}
 .form-body{padding:36px;}
 
@@ -526,7 +528,7 @@ footer.site-footer{
   max-width:400px;margin:60px auto;
   background:var(--cit-panel);border:1px solid var(--cit-line);padding:40px 34px;text-align:center;
 }
-.admin-login .fc-mark{width:52px;height:52px;margin:0 auto 18px;}
+.admin-login .fc-mark{width:52px;height:52px;margin:0 auto 18px;border-radius:50%;object-fit:cover;border:1.5px solid #c9a35a;background:#0d0d0d;display:block;}
 .admin-login h2{font-family:'Playfair Display',serif;margin:0 0 6px;font-size:22px;}
 .admin-login p{color:var(--cit-cream);opacity:.65;font-size:13.5px;margin:0 0 26px;}
 .admin-login input{
